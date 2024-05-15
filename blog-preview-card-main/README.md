@@ -56,4 +56,4 @@ Still be focusing on Js' learn and learn be until i become that GURU you've wish
 
 ## Author
 - Frontend Mentor - [@saviourjr](https://www.frontendmentor.io/profile/saviourjr)
-- Twitter - [@Saviour_jr10](https://www.twitter.com/ySaviour_jr10)
+- Twitter - [@Saviour_jnr10](https://www.twitter.com/ySaviour_jnr10)
